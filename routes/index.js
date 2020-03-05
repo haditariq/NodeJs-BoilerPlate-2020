@@ -19,7 +19,7 @@ const router = express.Router();
  */
 
 router.get('', async (req, res) => {
-  res.send("Welcome to Maalgari.")
+  res.send("Welcome to Node boilerplate 2020.")
 
 
 });
