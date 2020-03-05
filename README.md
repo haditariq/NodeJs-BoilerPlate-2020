@@ -1,2 +1,2 @@
-# NodeJs-BoilerPlate-2020
-Node.js boilder plate with express, swaggerui, jwt
+# Node.js-boilerplate-2020
+Node.js boilder plate with express, swaggerui, jwt.
